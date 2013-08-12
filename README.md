@@ -1,4 +1,4 @@
 pulp-svr4
 =========
 
-A pulp plugin for SVR4 packages
+A pulp plug-in for SVR4 packages
